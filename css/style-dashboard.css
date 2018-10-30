@@ -1,0 +1,38 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Montserrat;
+}
+
+h1.title {
+	text-align: center;
+    font-weight: normal;
+    color: #F6F6EF;
+    line-height:60px;
+    margin:0;
+    font-size:20px;
+    letter-spacing:2px;
+    background-color:#34363A;
+    border-bottom:1px solid rgba(101, 116, 134, 0.57);
+}
+
+div.berita {
+	padding: 50px 100px;
+}
+
+div.berita a {
+	text-decoration: none;
+}
+
+h1.berita-baru {
+	text-align: center;
+    font-weight: normal;
+    color: #8e929b;
+    line-height:60px;
+    margin:0;
+    font-size:20px;
+    letter-spacing:2px;
+    background-color:#d6d8dc;
+    border-bottom:1px solid rgba(101, 116, 134, 0.57);
+}
+
